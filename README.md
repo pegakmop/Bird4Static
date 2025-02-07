@@ -28,4 +28,4 @@
 
 Чат в телеграме: [тут](https://t.me/bird4static_chat)
 
-форум проекта [тут]([https://yoomoney.ru/to/41001872039390](https://forum.keenetic.ru/topic/19790-роутинг-рф-из-ripe-для-keenetic-hopper-3811/)) 
+форум проекта [тут](https://forum.keenetic.ru/topic/19790-роутинг-рф-из-ripe-для-keenetic-hopper-3811/)
